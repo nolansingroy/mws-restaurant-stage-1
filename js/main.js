@@ -3,7 +3,7 @@ let restaurants,
   cuisines
 var map
 var markers = []
-
+//test on first commit
 /**
  * Fetch neighborhoods and cuisines as soon as the page is loaded.
  */
